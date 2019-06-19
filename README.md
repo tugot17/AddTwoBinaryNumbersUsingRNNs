@@ -1,12 +1,14 @@
 # Add two binary numbers using Recurent Neural Networks
-Quick introduction to RNNs in Tensorflow 2.0. We want teach model how to add two binary numbers
+Quick introduction to RNNs in Tensorflow 2.0.
 
 <img src="images/rec_net.png" alt="drawing" width="500px"/>
 
+## Avalible notebooks
+* Add 2 binary numbers 
 ## Getting Started
 
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com)
-The main file is AddBinaryNumbersUsingRNN.ipynb
+You need to run one of the noteooks.
 
 ### Prerequisites
 ```
@@ -23,6 +25,6 @@ The main file is AddBinaryNumbersUsingRNN.ipynb
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
